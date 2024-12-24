@@ -10,20 +10,33 @@ Notes for my P&amp;RD Rotation
 ---
 # To-Do List:
 
-- [ ] PR/2022/18 - Issue Maintenance Certificate --> Waiting Annex E
-- [X] Write notes for the CPD yesterday
-- [ ] PR/2024/10 - Call Sunny Smart Engineering Ltd at 35750806 mr Cheng about commencement date -- Waiting for reply  --> Letter of acceptance --> Compile Contract Document with Tom Cheuk --> Issue M11,12 --> Waiting for binding 
-- [ ] Other Quotation Contract - Concrete & Bitumous Material Submission -- Waiting for Wilson's supporting information
+- [ ] CPD - Write notes for previous PWCL CPD... 
+- [ ] Framework Contract -- Help write new Appendix to Specification ref from DC/2023/04 http://dsdp.dsd.hksarg/sites/tcmp/ContractDetails/WholesetofContractDocument202304/Forms/AllItems.aspx from path: \\Kgofsr01\prd\SERT2\R&R Framework\From T&T\20241209 (IN) 5th Tender Doc\Volume 1\05 Framework Information\FI_APP_A_APP4 PS\06-Appendix to Particular Specification\editable
+- [ ] PR/2024/13 - Waiting for signing of tender drawing --> M4 filecloud upload, in the format of NTT, Tender Doc, Tender Drawing --> Waiting for checking--> upload to Filecloud
+- [ ] Go print another PAH
 - [ ] Framework Contract -- Do Tender Checklist Items
+- [ ] Read about Financial Circular No. 3/2020 – “Parallel Tendering for Contracts” 
+- [ ] Other Quotation Contract - Concrete & Bitumous Material Submission --> Waiting for Wilson's supporting information --> Conduct Checking --> Waiting for resubmission
+
+- [X] PR/2022/18 - Issue Maintenance Certificate --> Waiting Annex E --> Ask AIOW/SS2 how I should give him to sign. 
+- [X] PR/2024/10 - Call Sunny Smart Engineering Ltd at 35750806 mr Cheng about commencement date -- Waiting for reply  --> Letter of acceptance --> Compile Contract Document with Tom Cheuk --> Issue M11,12 --> Waiting for binding 
+- [X] Framework Contract - Draft Reply for Contract Transport
+- [X] Framework Contract - Draft Reply for Temporary Electricity
+- [X] Write notes for the CPD yesterday
 - [X] Other Quotation Contract - Core Drilling Method Statement --> Issue Letter if no comment. 
-- [ ] PR/2024/13 - M4 filecloud upload
 - [X] Consultancy Progress Meeting - Request for PPT by 31/12
+
+
+# Questions
+
+- Why is there advance payment for RSS salary? What Technical Circular required this measure?
 
 
 
 # Useful Links
 <ol>
 <li> <a href="https://fb.host.ccgo.hksarg/spr/spr_e_clean.pdf">Stores and Procurement Regulation (SPR)</a>
+<li> <a href="https://www.epd.gov.hk/epd/english/environmentinhk/noise/guide_ref/noise_guidelines.html">CNP Guidelines and References</a>
 </ol>
 
 # Framework Contract - Pre-Tender Works
@@ -152,3 +165,67 @@ What components are required in 4S systems?
 7. Smart watch 
 8. AI Camera
 9. Worker Tracking & continuous 2-level air mointoring for confined space
+
+# Construction Noise Permit (CNP)
+
+### Obtained from "Technical Memorandum on Noise from Construction Work Other Than Precussive Piling"
+
+Which ordinance does CNP relates to?  
+
+    Noise Control Ordinance (Cap. 400)
+
+What are the restricted horus for using powered mechanical equipment when there is no CNP?
+
+    Restricted hours for using powered mechanical equipment is 7pm-7am. 
+
+What are the steps in assessment of noise from construction works
+
+1. Location of most affected Noise Sensitive Receiver (NSR)
+2. Determination of the Area Sensitivity Rating (ASR)
+    - ASR obtained by a matrix of Area Type against Degree of Effect, from A-C
+    - NSR has a 100m radius in urban area and 500m in rural area. 
+3. Determination of Basic Noise Level (BNL)
+    - 2 Groups of time period (19:00-23:00 & 23:00-07:00)
+    - Residential area originally with low influencing factor (less noisy) will have stricter Basic Noise Level requirement
+4. Correction for Duration of Construction Noise Permit (CNP)
+    - CNP less than 14 days will have a +3dB allowance 
+5. Correction for Multiple Permit Situation
+    - EPD can lower the BNL if there are multiple CNP near an NSR.
+6. Determination of Acceptable Noise Level (ANL)
+    - Computed by step 4,5
+7. Location of items of Powered Mechanical Equipment (PME)
+8. Sound Power Levels for Items of Powered Mechanical Equipment (PME)
+    - The sound power level for each PME is different and is given by a table.
+9. Distance Attenuation and Summation of Noise Levels
+    - Distance to NSR = Plan/Slant Distance between source to any openings of NSR (window/ door)
+    - if PME are used in the same location --> sound power level should be summed logarithmically to give Total Sound power Level
+    - Predicted Noise Level (PNL) is given by a table taking into account the Distance to NSR & (Total) Sound Power Level
+10. Corrections for the Effect of Barriers
+    - a -10dB correction when there is full barrier blocking view of construction site from NSR.
+    - a -5dB correction when there is barrier blocking view of all major PMEs
+    - a -5dB correction when no window/door of NSR is directly facing the site
+11. Corrections for the Effect of Barriers
+    - a +3dB correction when NSR is in a building.
+    - a +3dB correction when construction site is confined in nature.
+12. Corrected Noise Level (CNL) at the Noise Sensitive Receiver
+    - CNL = Sum of Step 10,11 
+13. CNP Issuing Procedure
+    - Compare Corrected Noise Level (CNL) with Acceptable Noise Level. 
+    - There may be additional conditions or refuse to renew CNP based on the amount of complaints received and other factors.
+    - All CNP PME should be labelled in a legible and conspicuous manner with the right identification code.  
+
+![alt text](<miscellaneous Documents/Decibel Addition.PNG>)
+
+What are the special condition in which CNP will be granted? 
+
+- when it can be proven that construction during restricted hours will cause less inconvenience than non-restricted hours
+- When serious interruption or disruption would be caused to road, railway, transport, and utilities. 
+- When works needs to be carried out in specific tidal conditions
+- Conditions of SNP will specify the use of specially silenaced items of PME. 
+- When the construction works is of significant social implications
+
+What are the Noise Measurement Procedures? 
+
+- Assessment Point: for Buidlings, 1m away from exterior wall; for Construction site, height of 1.2m + location to be proposed by Authority
+- Uses a Continuous Sound Pressure Level. Measured over 5-minute period
+- Measurements to be adjusted based on weather conditions. 
