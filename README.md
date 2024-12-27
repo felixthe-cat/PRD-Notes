@@ -166,3 +166,9 @@ What components are required in 4S systems?
 8. AI Camera
 9. Worker Tracking & continuous 2-level air mointoring for confined space
 
+# General Rehabilitation Works Knowledge
+
+What are the prerequisites for doing road pipework rehabs?
+1. TTA
+2. XP
+3. CNP
