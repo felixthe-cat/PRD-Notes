@@ -13,3 +13,9 @@
 - What does 漏斗 mean? 
 - What does SMA, SDM mean?
 - Who gives out NC? 
+- What is the procedures in setting up roadworks? 
+    <p> Is it: </P>
+    <p>1. Obtain TTA, XP
+    <p>2. Setup TTA on Site
+    <p>3. Obtain RA from HKPF? 
+    <p>4. Can start work? 
