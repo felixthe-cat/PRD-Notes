@@ -10,12 +10,16 @@ Notes for my P&amp;RD Rotation
 ---
 # To-Do List:
 
+- [ ] PR/2023/14 -- Proposed Laboratory for Sand Replacement Test --> Issue acceptance letter
+- [ ] PR/2024/10 -- Draft Material Submission for CIPP and Ribline
 - [ ] CPD -- Write notes for previous PWCL CPD... 
 - [ ] Self Learning -- Make notes for PAH Ch. 5,6
 - [ ] Framework Contract -- Do Tender Checklist Items
 - [ ] Read about Financial Circular No. 3/2020 – “Parallel Tendering for Contracts” 
 - [ ] Other Quotation Contract - Concrete & Bitumous Material Submission --> Waiting for Wilson's supporting information --> Conduct Checking --> Waiting for resubmission
 
+- [X] 1A -- Macdonell Road TTA Waiver
+- [X] PR/2024/13 -- Scan M1-M4 and staple them together
 - [X] PR/2024/10 - Call Sunny Smart Engineering Ltd at 35750806 mr Cheng about commencement date -- Waiting for reply  --> Letter of acceptance --> Compile Contract Document with Tom Cheuk --> Issue M11,12 --> Waiting for binding again
 - [X] PR/2024/13 - Waiting for signing of tender drawing --> M4 filecloud upload, in the format of NTT, Tender Doc, Tender Drawing --> Waiting for checking--> upload to Filecloud
 - [X] Framework Contract -- Help write new Appendix to Specification ref from DC/2023/04 http://dsdp.dsd.hksarg/sites/tcmp/ContractDetails/WholesetofContractDocument202304/Forms/AllItems.aspx from path: \\Kgofsr01\prd\SERT2\R&R Framework\From T&T\20241209 (IN) 5th Tender Doc\Volume 1\05 Framework Information\FI_APP_A_APP4 PS\06-Appendix to Particular Specification\editable
