@@ -10,17 +10,19 @@ Notes for my P&amp;RD Rotation
 ---
 # To-Do List:
 
-- [ ] PR/2023/14 -- Proposed Laboratory for Sand Replacement Test --> Issue acceptance letter
-- [ ] PR/2024/10 -- Draft Material Submission for CIPP and Ribline
-- [ ] CPD -- Write notes for previous PWCL CPD... 
+- [ ] PR/2024/10 - Call Sunny Smart Engineering Ltd at 35750806 mr Cheng about commencement date -- Waiting for reply  --> Letter of acceptance --> Compile Contract Document with Tom Cheuk --> Issue M11,12 --> Waiting for binding again --> Wait for AD to sign the contract doc and return
+- [ ] Framework Contract -- Cat D paper
+- [ ] PR/2024/10 --> Letter for Third Party Insurance
+- [ ] CPD -- Write notes for previous PWCL CPD... --> Waiting for Mark's Reply
 - [ ] Self Learning -- Make notes for PAH Ch. 5,6
 - [ ] Framework Contract -- Do Tender Checklist Items
-- [ ] Read about Financial Circular No. 3/2020 – “Parallel Tendering for Contracts” 
-- [ ] Other Quotation Contract - Concrete & Bitumous Material Submission --> Waiting for Wilson's supporting information --> Conduct Checking --> Waiting for resubmission
+- [ ] Read about Financial Circular No. 3/2020 –- “Parallel Tendering for Contracts” 
+- [ ] Other Quotation Contract -- Concrete & Bitumous Material Submission --> Waiting for Wilson's supporting information --> Conduct Checking --> Waiting for resubmission
 
+- [X] PR/2023/14 -- Proposed Laboratory for Sand Replacement Test --> Issue acceptance letter
+- [X] PR/2024/10 -- Draft approval for Material submission, method statement, Laboratory proposal for CIPP and Ribline. 
 - [X] 1A -- Macdonell Road TTA Waiver
 - [X] PR/2024/13 -- Scan M1-M4 and staple them together
-- [X] PR/2024/10 - Call Sunny Smart Engineering Ltd at 35750806 mr Cheng about commencement date -- Waiting for reply  --> Letter of acceptance --> Compile Contract Document with Tom Cheuk --> Issue M11,12 --> Waiting for binding again
 - [X] PR/2024/13 - Waiting for signing of tender drawing --> M4 filecloud upload, in the format of NTT, Tender Doc, Tender Drawing --> Waiting for checking--> upload to Filecloud
 - [X] Framework Contract -- Help write new Appendix to Specification ref from DC/2023/04 http://dsdp.dsd.hksarg/sites/tcmp/ContractDetails/WholesetofContractDocument202304/Forms/AllItems.aspx from path: \\Kgofsr01\prd\SERT2\R&R Framework\From T&T\20241209 (IN) 5th Tender Doc\Volume 1\05 Framework Information\FI_APP_A_APP4 PS\06-Appendix to Particular Specification\editable
 - [X] PR/2022/18 - Issue Maintenance Certificate --> Waiting Annex E --> Ask AIOW/SS2 how I should give him to sign. 
@@ -176,3 +178,10 @@ What are the prerequisites for doing road pipework rehabs?
 1. TTA
 2. XP
 3. CNP
+
+# Method Statement Checking Procedures:
+- Make a checklist from the requirements given by GS,PS / Spec
+    - Make sure to check the appendicies for specific inforamtion too
+- Check each of the item with the submission
+    - make sure to read the manuals that you can find
+- 
