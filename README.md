@@ -10,9 +10,14 @@ Notes for my P&amp;RD Rotation
 ---
 # To-Do List:
 
-- [ ] PR/2024/10 - Call Sunny Smart Engineering Ltd at 35750806 mr Cheng about commencement date -- Waiting for reply  --> Letter of acceptance --> Compile Contract Document with Tom Cheuk --> Issue M11,12 --> Waiting for binding again --> Wait for AD to sign the contract doc and return
+- [ ] PR/2024/10 - Call Sunny Smart Engineering Ltd at 35750806 mr Cheng about commencement date -- Waiting for reply  --> Letter of acceptance --> Compile Contract Document with Tom Cheuk --> Issue M11,12 --> Waiting for binding again --> Wait for AD to sign the contract doc and return --> Arrange kick-off meeting
+- [ ] Framework Contract -- Make appendix for Non-standard clause approval
+- [X] Framework Contract -- Check the quantities for Computer Facilities
 - [ ] Framework Contract -- Cat D paper
-- [ ] PR/2024/10 --> Letter for Third Party Insurance
+- [ ] Framework Contract -- Read about Issac's letter and learn
+- [ ] Framework Contract -- BoQ review with CAREC and QS reply. 
+- [ ] PR/2024/10 -- Letter for Third Party Insurance
+- [ ] DC/2023/05 -- Read about the near miss accident
 - [ ] CPD -- Write notes for previous PWCL CPD... --> Waiting for Mark's Reply
 - [ ] Self Learning -- Make notes for PAH Ch. 5,6
 - [ ] Framework Contract -- Do Tender Checklist Items
@@ -36,6 +41,9 @@ Notes for my P&amp;RD Rotation
 # Questions
 
 - Why is there advance payment for RSS salary? What Technical Circular required this measure?
+- What is an EOB (for emergency repair)
+- Lifting number of clip needs to be 3???
+
 
 
 
