@@ -10,20 +10,22 @@ Notes for my P&amp;RD Rotation
 ---
 # To-Do List:
 
+- [ ] Framework Contract -- Tender Checklist
+- [ ] DC/2023/05 -- TTA for Sheung On Street and Chai Wan Road
 - [ ] PR/2024/10 - Call Sunny Smart Engineering Ltd at 35750806 mr Cheng about commencement date -- Waiting for reply  --> Letter of acceptance --> Compile Contract Document with Tom Cheuk --> Issue M11,12 --> Waiting for binding again --> Wait for AD to sign the contract doc and return --> Arrange kick-off meeting
-- [ ] Framework Contract -- Make appendix for Non-standard clause approval
-- [X] Framework Contract -- Check the quantities for Computer Facilities
+- [ x] Framework Contract -- Make appendix for Non-standard clause approval
+- [ ] CPD -- Write notes for previous PWCL CPD... --> Waiting for Mark's Reply --> Write notes
+- [ ] Framework Contract -- Check the quantities for Computer Facilities --> Do Annex C and D 
 - [ ] Framework Contract -- Cat D paper
-- [ ] Framework Contract -- Read about Issac's letter and learn
-- [ ] Framework Contract -- BoQ review with CAREC and QS reply. 
 - [ ] PR/2024/10 -- Letter for Third Party Insurance
 - [ ] DC/2023/05 -- Read about the near miss accident
-- [ ] CPD -- Write notes for previous PWCL CPD... --> Waiting for Mark's Reply
 - [ ] Self Learning -- Make notes for PAH Ch. 5,6
 - [ ] Framework Contract -- Do Tender Checklist Items
 - [ ] Read about Financial Circular No. 3/2020 –- “Parallel Tendering for Contracts” 
+- [ ] Framework Contract -- Read about Issac's letter and learn
 - [ ] Other Quotation Contract -- Concrete & Bitumous Material Submission --> Waiting for Wilson's supporting information --> Conduct Checking --> Waiting for resubmission
 
+- [X] Framework Contract -- BoQ review with CAREC and QS reply. 
 - [X] PR/2023/14 -- Proposed Laboratory for Sand Replacement Test --> Issue acceptance letter
 - [X] PR/2024/10 -- Draft approval for Material submission, method statement, Laboratory proposal for CIPP and Ribline. 
 - [X] 1A -- Macdonell Road TTA Waiver
