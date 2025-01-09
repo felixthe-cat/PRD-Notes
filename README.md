@@ -10,18 +10,18 @@ Notes for my P&amp;RD Rotation
 ---
 # To-Do List:
 
-- [ ] PR/2024/10 -- Check CIPP design
+- [ ] Framework Contract -- Cat D paper
 - [ ] CPD -- Write notes for previous PWCL CPD... --> Waiting for Mark's Reply --> Write notes
+- [W] PR/2024/10 - Call Sunny Smart Engineering Ltd at 35750806 mr Cheng about commencement date -- Waiting for reply  --> Letter of acceptance --> Compile Contract Document with Tom Cheuk --> Issue M11,12 --> Waiting for binding again --> Wait for AD to sign the contract doc and return --> Arrange kick-off meeting --> Change Date --> Waiting for reply
 - [ ] Self Learning -- Make notes for PAH Ch. 5,6
 - [ ] Framework Contract -- Check the quantities for Computer Facilities --> Do Annex C and D 
-- [ ] Framework Contract -- Cat D paper
-- [ ] PR/2024/10 -- Letter for Third Party Insurance --> Waiting for subclauses
-- [X] Framework Contract -- Do Tender Checklist Items
+- [W] PR/2024/10 -- Letter for Third Party Insurance --> Waiting for subclauses
 - [ ] Read about Financial Circular No. 3/2020 –- “Parallel Tendering for Contracts” 
 - [ ] Framework Contract -- Read about Issac's letter and learn
-- [ ] Other Quotation Contract -- Concrete & Bitumous Material Submission --> Waiting for Wilson's supporting information --> Conduct Checking --> Waiting for resubmission
+- [W] Other Quotation Contract -- Concrete & Bitumous Material Submission --> Waiting for Wilson's supporting information --> Conduct Checking --> Waiting for resubmission
 
-- [X] PR/2024/10 - Call Sunny Smart Engineering Ltd at 35750806 mr Cheng about commencement date -- Waiting for reply  --> Letter of acceptance --> Compile Contract Document with Tom Cheuk --> Issue M11,12 --> Waiting for binding again --> Wait for AD to sign the contract doc and return --> Arrange kick-off meeting
+- [X] Framework Contract -- Do Tender Checklist Items
+- [X] PR/2024/10 -- Check CIPP design
 - [X] DC/2023/05 -- TTA for Sheung On Street and Chai Wan Road
 - [X] Framework Contract -- Make appendix for Non-standard clause approval
 - [X] Framework Contract -- BoQ review with CAREC and QS reply. 
@@ -193,4 +193,4 @@ What are the prerequisites for doing road pipework rehabs?
     - Make sure to check the appendicies for specific inforamtion too
 - Check each of the item with the submission
     - make sure to read the manuals that you can find
-- 
+
