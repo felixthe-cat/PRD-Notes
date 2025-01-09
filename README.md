@@ -10,8 +10,10 @@ Notes for my P&amp;RD Rotation
 ---
 # To-Do List:
 
-- [ ] Framework Contract -- Make changes on Site Cleanliness in BQ, MM (PP_01-0_v1), PS
+- [ ] Framework Contract -- Make changes on Site Cleanliness in BQ, MM (PP_01-0_v1), PS, and NTT? based on the term contract version in DEVB TC(W) No. 8/2010 (link https://www.devb.gov.hk/filemanager/technicalcirculars/en/upload/309/1/C-2010-08-01.pdf )
+- [ ] Framework Contract -- Make Case Study for Marking Scheme, in NTT_APP_B_Marking Scheme Approach v5
 - [ ] Framework Contract -- Cat D paper
+- [ ] DC202305 - Process RSS medical insurance payment
 - [ ] CPD -- Write notes for previous PWCL CPD... --> Waiting for Mark's Reply --> Write notes
 - [W] PR/2024/10 - Call Sunny Smart Engineering Ltd at 35750806 mr Cheng about commencement date -- Waiting for reply  --> Letter of acceptance --> Compile Contract Document with Tom Cheuk --> Issue M11,12 --> Waiting for binding again --> Wait for AD to sign the contract doc and return --> Arrange kick-off meeting --> Change Date --> Waiting for reply
 - [ ] Self Learning -- Make notes for PAH Ch. 5,6
