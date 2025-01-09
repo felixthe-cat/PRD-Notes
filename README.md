@@ -10,6 +10,7 @@ Notes for my P&amp;RD Rotation
 ---
 # To-Do List:
 
+- [ ] Framework Contract -- Make changes on Site Cleanliness in BQ, MM (PP_01-0_v1), PS
 - [ ] Framework Contract -- Cat D paper
 - [ ] CPD -- Write notes for previous PWCL CPD... --> Waiting for Mark's Reply --> Write notes
 - [W] PR/2024/10 - Call Sunny Smart Engineering Ltd at 35750806 mr Cheng about commencement date -- Waiting for reply  --> Letter of acceptance --> Compile Contract Document with Tom Cheuk --> Issue M11,12 --> Waiting for binding again --> Wait for AD to sign the contract doc and return --> Arrange kick-off meeting --> Change Date --> Waiting for reply
