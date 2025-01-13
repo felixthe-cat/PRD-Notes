@@ -10,18 +10,19 @@ Notes for my P&amp;RD Rotation
 ---
 # To-Do List:
 
-- [ ] Framework Contract -- Cat D paper
-- [ ] DC202305 - Process RSS medical insurance payment
-- [ ] CPD -- Write notes for previous PWCL CPD... --> Waiting for Mark's Reply --> Write notes
-- [W] PR/2024/10 - Call Sunny Smart Engineering Ltd at 35750806 mr Cheng about commencement date -- Waiting for reply  --> Letter of acceptance --> Compile Contract Document with Tom Cheuk --> Issue M11,12 --> Waiting for binding again --> Wait for AD to sign the contract doc and return --> Arrange kick-off meeting --> Change Date --> Waiting for reply
+- [ ] PR/2024/01 -- CNP application 
+- [ ] PR/2024/10 -- Letter for Third Party Insurance --> Waiting for subclauses --> Check
+- [W] Framework Contract -- Cat D paper --> Checking by Issac 
 - [ ] Self Learning -- Make notes for PAH Ch. 5,6
 - [ ] Self Learning -- Make notes for NEC ECC flowchart (https://ssp.devbwb.ccgo.hksarg/wgi-portal/int-filemanager/wgip/common/NEC_Flow_Charts-202308/Engineering%20and%20Construction%20flowcharts.pdf)
 - [ ] Framework Contract -- Check the quantities for Computer Facilities --> Do Annex C and D 
-- [W] PR/2024/10 -- Letter for Third Party Insurance --> Waiting for subclauses
 - [ ] Read about Financial Circular No. 3/2020 –- “Parallel Tendering for Contracts” 
 - [ ] Framework Contract -- Read about Issac's letter and learn
 - [W] Other Quotation Contract -- Concrete & Bitumous Material Submission --> Waiting for Wilson's supporting information --> Conduct Checking --> Waiting for resubmission
 
+- [X] DC202305 - Process RSS medical insurance payment
+- [X] CPD -- Write notes for previous PWCL CPD... --> Waiting for Mark's Reply --> Write notes
+- [X] PR/2024/10 - Call Sunny Smart Engineering Ltd at 35750806 mr Cheng about commencement date -- Waiting for reply  --> Letter of acceptance --> Compile Contract Document with Tom Cheuk --> Issue M11,12 --> Waiting for binding again --> Wait for AD to sign the contract doc and return --> Arrange kick-off meeting --> Change Date --> Waiting for reply
 - [X] Framework Contract -- Make changes on Site Cleanliness in BQ, MM (PP_01-0_v1), PS, and NTT? based on the term contract version in DEVB TC(W) No. 8/2010 (link https://www.devb.gov.hk/filemanager/technicalcirculars/en/upload/309/1/C-2010-08-01.pdf )
 - [X] Framework Contract -- Make Case Study for Marking Scheme, in NTT_APP_B_Marking Scheme Approach v5
 - [X] Framework Contract -- Do Tender Checklist Items
