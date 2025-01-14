@@ -11,6 +11,7 @@ Notes for my P&amp;RD Rotation
 # To-Do List:
 
 - [ ] PR/2024/01 -- CNP application 
+- [ ] PR/2024/13 -- Tender Assessment M6-M8 
 - [ ] PR/2024/10 -- Letter for Third Party Insurance --> Waiting for subclauses --> Check
 - [W] Framework Contract -- Cat D paper --> Checking by Issac 
 - [ ] Self Learning -- Make notes for PAH Ch. 5,6
