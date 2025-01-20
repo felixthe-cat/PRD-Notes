@@ -10,18 +10,19 @@ Notes for my P&amp;RD Rotation
 ---
 # To-Do List:
 
-- [ ] PR/2024/10 -- Letter for Third Party Insurance --> Waiting for subclauses --> Check
 - [ ] PR/2024/13 -- Tender Assessment M6 --> Open Pricing Document --> M7 --> Tender Report --> M8 
-- [W] Framework Contract -- Cat D paper --> Checking by Issac 
 - [ ] Self Learning -- Make notes for PAH Ch. 5,6
 - [ ] Self Learning -- Make notes for NEC ECC flowchart (https://ssp.devbwb.ccgo.hksarg/wgi-portal/int-filemanager/wgip/common/NEC_Flow_Charts-202308/Engineering%20and%20Construction%20flowcharts.pdf)
 - [ ] Framework Contract -- Check the quantities for Computer Facilities --> Do Annex C and D 
 - [ ] Read about Financial Circular No. 3/2020 –- “Parallel Tendering for Contracts” 
 - [ ] Framework Contract -- Read about Issac's letter and learn
-- [W] Other Quotation Contract -- Concrete & Bitumous Material Submission --> Waiting for Wilson's supporting information --> Conduct Checking --> Waiting for resubmission
+- [ ] Other Quotation Contract -- Concrete & Bitumous Material Submission --> Waiting for Wilson's supporting information --> Conduct Checking --> Waiting for resubmission
 
+- [X] Framework - Issue Memo for Tender Photocopy Cost (relevant contract clause needed)
+- [X] PR/2024/10 - Call Sunny Smart Engineering Ltd at 35750806 mr Cheng about commencement date -- Waiting for reply  --> Letter of acceptance --> Compile Contract Document with Tom Cheuk --> Issue M11,12 --> Waiting for binding again --> Wait for AD to sign the contract doc and return --> Arrange kick-off meeting --> Change Date --> give agenda --> Write Notes of Meeting
+- [X] Framework Contract -- Cat D paper --> Checking by Issac 
 - [X] PR/2024/01 -- CNP application 
-- [X] PR/2024/10 - Call Sunny Smart Engineering Ltd at 35750806 mr Cheng about commencement date -- Waiting for reply  --> Letter of acceptance --> Compile Contract Document with Tom Cheuk --> Issue M11,12 --> Waiting for binding again --> Wait for AD to sign the contract doc and return --> Arrange kick-off meeting --> Change Date --> give agenda
+- [X] PR/2024/10 -- Letter for Third Party Insurance --> Waiting for subclauses --> Check
 - [X] DC202305 - Process RSS medical insurance payment
 - [X] CPD -- Write notes for previous PWCL CPD... --> Waiting for Mark's Reply --> Write notes
 - [X] Framework Contract -- Make changes on Site Cleanliness in BQ, MM (PP_01-0_v1), PS, and NTT? based on the term contract version in DEVB TC(W) No. 8/2010 (link https://www.devb.gov.hk/filemanager/technicalcirculars/en/upload/309/1/C-2010-08-01.pdf )
@@ -62,7 +63,8 @@ Notes for my P&amp;RD Rotation
 
 # Framework Contract - Pre-Tender Works
 
-What kind of pre-tender works needs to be done?
+What kind of pre-tender works needs to be done prior to Tendering?
+
 <ol>
 <li> Computer Facility Proposal - SE/SC (PAH Ch.5 9.14)
 <li> Contract Transport - AD (DSD TC 2/2010)
@@ -80,7 +82,7 @@ What kind of pre-tender works needs to be done?
 <li> Exemption for Temporary Water Supply and Electricity - AD (TC 13/2020)
 <li> Assessment of Liquidated Damages - CE (ETWB 4/2003)
 <li> Authorization of Minor Works - CE ([Drain]Cap 370 Section 4 & [Sewer]Cap 358AL Section 26)
-<li> (DSD Only) CAREC Submission 
+<li> (DSD Only) CAREC Submission - Committee to Assess Risk and Estimate (DSD TC 2/2017)
 <li> (DSD Only) NEC Option Selection - AD (DSD Guideline on Preparation of NEC OPtion Selection Submission for Endorsement Para. 26)
 </ol>
 
