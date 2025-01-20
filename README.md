@@ -66,6 +66,14 @@ Notes for my P&amp;RD Rotation
 What kind of pre-tender works needs to be done prior to Tendering?
 
 <ol>
+<li> (Non-Standard NEC Options) Justification of NEC Option - S of NEC Steering Committee 
+<li> (Non-Standard NEC Options & Tender >500M) Legal Vetting by LAD - LAD 
+<li> Draft Tender Document to CAU - SE/CAU
+<li> Works Programme - Distribution (UU companies)
+<li> Maintenance and Management Schedule - Distribution (HyD, DSD...)
+<li> Notification of Traffic Impact - Distribution (TD, RMO)
+<li> General Layout - Distribution (DSD, EPD)
+
 <li> Computer Facility Proposal - SE/SC (PAH Ch.5 9.14)
 <li> Contract Transport - AD (DSD TC 2/2010)
 <li> Professional Indemnity Insurance - CE (PAH Ch.5 5.2.3 & DEVB 9/2007)
@@ -73,9 +81,8 @@ What kind of pre-tender works needs to be done prior to Tendering?
 <li> Disposal of Fill - S of PFC (DEVB 6/2010)
 <li> Designated Disposal Ground - D of EPD (DEVB 6/2010)
 <li> PM Accomodation - DLO LandsD
-<li> Draft Tender Document to CAU - SE/CAU
 <li> Approval on Standard ACC, SCT Clauses - CE (PAH Ch.5 2.2 & 5.2.3)
-<li> Approval on Standard ACC, SCT Clauses - AD (PAH Ch.5 2.2 & 5.2.3 & PN for NEC ECC A4.1.1.1)
+<li> Approval on Non-Standard ACC, SCT Clauses - AD (PAH Ch.5 2.2 & 5.2.3 & PN for NEC ECC A4.1.1.1)
 <li> Standard Ammendment to NEC ECC - AD (DEVB 8/2010)
 <li> Approval on PS - CE (PAH Ch.5 6.1)
 <li> Sustainable Site Accomodation - AD (DEVB 11/2020)
@@ -83,7 +90,11 @@ What kind of pre-tender works needs to be done prior to Tendering?
 <li> Assessment of Liquidated Damages - CE (ETWB 4/2003)
 <li> Authorization of Minor Works - CE ([Drain]Cap 370 Section 4 & [Sewer]Cap 358AL Section 26)
 <li> (DSD Only) CAREC Submission - Committee to Assess Risk and Estimate (DSD TC 2/2017)
+<li> Reporting of PTE - CAS(W) DEVB
 <li> (DSD Only) NEC Option Selection - AD (DSD Guideline on Preparation of NEC OPtion Selection Submission for Endorsement Para. 26)
+<li> RSS Proposal  - RSSEC (RSS Management Handbook Chapter 3.1)
+https://www.devb.gov.hk/filemanager/en/content_1088/01_Management_Handbook_for_Direct_Employment_of_RSS_by_Consultants_Amendment_03_2024.pdf
+
 </ol>
 
 
