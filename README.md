@@ -10,6 +10,7 @@ Notes for my P&amp;RD Rotation
 ---
 # To-Do List:
 
+- [ ] PR/2024/10 -- Check CIPP design
 - [ ] PR/2024/13 -- Tender Assessment M6 --> Open Pricing Document --> M7 --> Tender Report --> M8 
 - [ ] Self Learning -- Make notes for PAH Ch. 5,6
 - [ ] Self Learning -- Make notes for NEC ECC flowchart (https://ssp.devbwb.ccgo.hksarg/wgi-portal/int-filemanager/wgip/common/NEC_Flow_Charts-202308/Engineering%20and%20Construction%20flowcharts.pdf)
@@ -29,7 +30,6 @@ Notes for my P&amp;RD Rotation
 - [X] Framework Contract -- Make changes on Site Cleanliness in BQ, MM (PP_01-0_v1), PS, and NTT? based on the term contract version in DEVB TC(W) No. 8/2010 (link https://www.devb.gov.hk/filemanager/technicalcirculars/en/upload/309/1/C-2010-08-01.pdf )
 - [X] Framework Contract -- Make Case Study for Marking Scheme, in NTT_APP_B_Marking Scheme Approach v5
 - [X] Framework Contract -- Do Tender Checklist Items
-- [X] PR/2024/10 -- Check CIPP design
 - [X] DC/2023/05 -- TTA for Sheung On Street and Chai Wan Road
 - [X] Framework Contract -- Make appendix for Non-standard clause approval
 - [X] Framework Contract -- BoQ review with CAREC and QS reply. 
