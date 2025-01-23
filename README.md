@@ -10,7 +10,6 @@ Notes for my P&amp;RD Rotation
 ---
 # To-Do List:
 
-- [ ] PR/2024/10 -- Commencement letter --> AoA remaining 
 - [ ] PR/2024/13 -- Tender Assessment M6 --> Open Pricing Document --> M7 --> Tender Report --> M8 
 - [ ] Self Learning -- Make notes for PAH Ch. 5,6
 - [ ] Self Learning -- Make notes for NEC ECC flowchart (https://ssp.devbwb.ccgo.hksarg/wgi-portal/int-filemanager/wgip/common/NEC_Flow_Charts-202308/Engineering%20and%20Construction%20flowcharts.pdf)
@@ -18,6 +17,7 @@ Notes for my P&amp;RD Rotation
 - [ ] Framework Contract -- Read about Issac's letter and learn
 - [ ] Other Quotation Contract -- Concrete & Bitumous Material Submission --> Waiting for Wilson's supporting information --> Conduct Checking --> Waiting for resubmission
 
+- [X] PR/2024/10 -- Commencement letter --> AoA remaining 
 - [X] Framework Contract -- RtoC for ITMU
 - [X] Framework - Issue Memo for Tender Photocopy Cost (relevant contract clause needed)
 - [X] PR/2024/10 - Call Sunny Smart Engineering Ltd at 35750806 mr Cheng about commencement date -- Waiting for reply  --> Letter of acceptance --> Compile Contract Document with Tom Cheuk --> Issue M11,12 --> Waiting for binding again --> Wait for AD to sign the contract doc and return --> Arrange kick-off meeting --> Change Date --> give agenda --> Write Notes of Meeting
@@ -78,6 +78,7 @@ What kind of pre-tender works needs to be done prior to Tendering?
 <p><p><b>Contractual</b>
 <li> (Non-Standard NEC Options) Justification of NEC Option - S of NEC Steering Committee 
 <li> Draft Tender Document to CAU - SE/CAU
+<li> Draft Tender Document to SAU - SE/SAU
 <li> General Layout - Distribution (DSD, EPD)
 <li> Approval on Standard ACC, SCT Clauses - CE (PAH Ch.5 2.2 & 5.2.3)
 <li> Approval on Non-Standard ACC, SCT Clauses - AD (PAH Ch.5 2.2 & 5.2.3 & PN for NEC ECC A4.1.1.1)
@@ -221,3 +222,34 @@ What are the prerequisites for doing road pipework rehabs?
 - Check each of the item with the submission
     - make sure to read the manuals that you can find
 
+# Framework Contract Specific Knowledge 
+What are the components in the marking scheme in Framework Level?
+1. Screening
+<p style="margin-left: 50px;">a. Main contractor experience in the past 5 years
+<p style="margin-left: 50px;">b. $15M experience in the past 5 years
+
+2. Marking
+<p style="margin-left: 50px;">a. Tender Experience
+<p style="margin-left: 75px;">survey, CIPP, UVCIPP, SPL
+<p style="margin-left: 50px;">b. Technical Resource
+<p style="margin-left: 75px;">Personelle, construction manager, technical manager. site agent
+<p style="margin-left: 50px;">c. Technical Proposal
+<p style="margin-left: 75px;">Method Statement, Quality Assurance Plan, Risk Management Plan, Environmental Plan
+
+
+
+
+what are the components of KPI
+- Submission rate of quoatation for Works Orders
+- Contractor's proposal 
+- Knowledge sessions delivered by Framework Contractor
+- Public Satisfaction
+- Accuracy of forecasting "defined cost" in payment applications
+- retention of Key Persons
+- Adoption of advanced technologies
+
+What is the quotation evaluation method for Works Order? 
+- Forecast total of the price
+- Performance score of Wroks Orders
+- Proposed duration of works 
+- KPI score 
