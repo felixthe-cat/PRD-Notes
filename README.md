@@ -10,22 +10,26 @@ Notes for my P&amp;RD Rotation
 ---
 # To-Do List:
 
-- [ ] Framework Contract -- Cat D paper
-- [ ] DC202305 - Process RSS medical insurance payment
-- [ ] CPD -- Write notes for previous PWCL CPD... --> Waiting for Mark's Reply --> Write notes
-- [W] PR/2024/10 - Call Sunny Smart Engineering Ltd at 35750806 mr Cheng about commencement date -- Waiting for reply  --> Letter of acceptance --> Compile Contract Document with Tom Cheuk --> Issue M11,12 --> Waiting for binding again --> Wait for AD to sign the contract doc and return --> Arrange kick-off meeting --> Change Date --> Waiting for reply
+- [ ] PR/2024/10 -- Check CIPP design
+- [ ] PR/2024/13 -- Tender Assessment M6 --> Open Pricing Document --> M7 --> Tender Report --> M8 
 - [ ] Self Learning -- Make notes for PAH Ch. 5,6
 - [ ] Self Learning -- Make notes for NEC ECC flowchart (https://ssp.devbwb.ccgo.hksarg/wgi-portal/int-filemanager/wgip/common/NEC_Flow_Charts-202308/Engineering%20and%20Construction%20flowcharts.pdf)
-- [ ] Framework Contract -- Check the quantities for Computer Facilities --> Do Annex C and D 
-- [W] PR/2024/10 -- Letter for Third Party Insurance --> Waiting for subclauses
 - [ ] Read about Financial Circular No. 3/2020 –- “Parallel Tendering for Contracts” 
 - [ ] Framework Contract -- Read about Issac's letter and learn
-- [W] Other Quotation Contract -- Concrete & Bitumous Material Submission --> Waiting for Wilson's supporting information --> Conduct Checking --> Waiting for resubmission
+- [ ] Other Quotation Contract -- Concrete & Bitumous Material Submission --> Waiting for Wilson's supporting information --> Conduct Checking --> Waiting for resubmission
 
+- [X] PR/2024/10 -- Commencement letter --> AoA remaining 
+- [X] Framework Contract -- RtoC for ITMU
+- [X] Framework - Issue Memo for Tender Photocopy Cost (relevant contract clause needed)
+- [X] PR/2024/10 - Call Sunny Smart Engineering Ltd at 35750806 mr Cheng about commencement date -- Waiting for reply  --> Letter of acceptance --> Compile Contract Document with Tom Cheuk --> Issue M11,12 --> Waiting for binding again --> Wait for AD to sign the contract doc and return --> Arrange kick-off meeting --> Change Date --> give agenda --> Write Notes of Meeting
+- [X] Framework Contract -- Cat D paper --> Checking by Issac 
+- [X] PR/2024/01 -- CNP application 
+- [X] PR/2024/10 -- Letter for Third Party Insurance --> Waiting for subclauses --> Check
+- [X] DC202305 - Process RSS medical insurance payment
+- [X] CPD -- Write notes for previous PWCL CPD... --> Waiting for Mark's Reply --> Write notes
 - [X] Framework Contract -- Make changes on Site Cleanliness in BQ, MM (PP_01-0_v1), PS, and NTT? based on the term contract version in DEVB TC(W) No. 8/2010 (link https://www.devb.gov.hk/filemanager/technicalcirculars/en/upload/309/1/C-2010-08-01.pdf )
 - [X] Framework Contract -- Make Case Study for Marking Scheme, in NTT_APP_B_Marking Scheme Approach v5
 - [X] Framework Contract -- Do Tender Checklist Items
-- [X] PR/2024/10 -- Check CIPP design
 - [X] DC/2023/05 -- TTA for Sheung On Street and Chai Wan Road
 - [X] Framework Contract -- Make appendix for Non-standard clause approval
 - [X] Framework Contract -- BoQ review with CAREC and QS reply. 
@@ -45,9 +49,8 @@ Notes for my P&amp;RD Rotation
 
 # Questions
 
-- Why is there advance payment for RSS salary? What Technical Circular required this measure?
-- What is an EOB (for emergency repair)
-- Lifting number of clip needs to be 3???
+- Does employed consultants help submit the RSS proposal or does government engineers usually do RSS proposal. 
+- How to determine whether the LD charge is on the maximum amount or the minimum amount?  
 
 
 
@@ -60,26 +63,47 @@ Notes for my P&amp;RD Rotation
 
 # Framework Contract - Pre-Tender Works
 
-What kind of pre-tender works needs to be done?
+What kind of pre-tender works needs to be done prior to Tendering?
+
 <ol>
+<p><b>Legal Aspect</b>
+<li> (Non-Standard NEC Options & Tender >500M) Legal Vetting by LAD - LAD 
+
+<p><p><b>Communication</b>
+<li> Works Programme - Distribution (UU companies)
+<li> Maintenance and Management Schedule - Distribution (HyD, DSD...)
+<li> Notification of Traffic Impact - Distribution (TD, RMO)
+<li> Reporting of PTE - CAS(W) DEVB
+
+<p><p><b>Contractual</b>
+<li> (Non-Standard NEC Options) Justification of NEC Option - S of NEC Steering Committee 
+<li> Draft Tender Document to CAU - SE/CAU
+<li> Draft Tender Document to SAU - SE/SAU
+<li> General Layout - Distribution (DSD, EPD)
+<li> Approval on Standard ACC, SCT Clauses - CE (PAH Ch.5 2.2 & 5.2.3)
+<li> Approval on Non-Standard ACC, SCT Clauses - AD (PAH Ch.5 2.2 & 5.2.3 & PN for NEC ECC A4.1.1.1)
+<li> Standard Ammendment to NEC ECC - AD (DEVB 8/2010)
+<li> Approval on PS - CE (PAH Ch.5 6.1)
+<li> Professional Indemnity Insurance - CE (PAH Ch.5 5.2.3 & DEVB 9/2007)
+<li> (DSD Only) NEC Option Selection - AD (DSD Guideline on Preparation of NEC OPtion Selection Submission for Endorsement Para. 26)
+
+
+<p><p><b>Internal Approval</b>
 <li> Computer Facility Proposal - SE/SC (PAH Ch.5 9.14)
 <li> Contract Transport - AD (DSD TC 2/2010)
-<li> Professional Indemnity Insurance - CE (PAH Ch.5 5.2.3 & DEVB 9/2007)
 <li> Third Party Insurance - AD (ETWB 7/2005)
 <li> Disposal of Fill - S of PFC (DEVB 6/2010)
 <li> Designated Disposal Ground - D of EPD (DEVB 6/2010)
 <li> PM Accomodation - DLO LandsD
-<li> Draft Tender Document to CAU - SE/CAU
-<li> Approval on Standard ACC, SCT Clauses - CE (PAH Ch.5 2.2 & 5.2.3)
-<li> Approval on Standard ACC, SCT Clauses - AD (PAH Ch.5 2.2 & 5.2.3 & PN for NEC ECC A4.1.1.1)
-<li> Standard Ammendment to NEC ECC - AD (DEVB 8/2010)
-<li> Approval on PS - CE (PAH Ch.5 6.1)
 <li> Sustainable Site Accomodation - AD (DEVB 11/2020)
 <li> Exemption for Temporary Water Supply and Electricity - AD (TC 13/2020)
 <li> Assessment of Liquidated Damages - CE (ETWB 4/2003)
 <li> Authorization of Minor Works - CE ([Drain]Cap 370 Section 4 & [Sewer]Cap 358AL Section 26)
-<li> (DSD Only) CAREC Submission 
-<li> (DSD Only) NEC Option Selection - AD (DSD Guideline on Preparation of NEC OPtion Selection Submission for Endorsement Para. 26)
+<li> (DSD Only) CAREC Submission - Committee to Assess Risk and Estimate (DSD TC 2/2017)
+<li> RSS Proposal  - RSSEC (RSS Management Handbook Chapter 3.1)
+
+[[RSS Management Handbook Chapter 3.1](https://www.devb.gov.hk/filemanager/en/content_1088/01_Management_Handbook_for_Direct_Employment_of_RSS_by_Consultants_Amendment_03_2024.pdf)]
+
 </ol>
 
 
@@ -198,3 +222,34 @@ What are the prerequisites for doing road pipework rehabs?
 - Check each of the item with the submission
     - make sure to read the manuals that you can find
 
+# Framework Contract Specific Knowledge 
+What are the components in the marking scheme in Framework Level?
+1. Screening
+<p style="margin-left: 50px;">a. Main contractor experience in the past 5 years
+<p style="margin-left: 50px;">b. $15M experience in the past 5 years
+
+2. Marking
+<p style="margin-left: 50px;">a. Tender Experience
+<p style="margin-left: 75px;">survey, CIPP, UVCIPP, SPL
+<p style="margin-left: 50px;">b. Technical Resource
+<p style="margin-left: 75px;">Personelle, construction manager, technical manager. site agent
+<p style="margin-left: 50px;">c. Technical Proposal
+<p style="margin-left: 75px;">Method Statement, Quality Assurance Plan, Risk Management Plan, Environmental Plan
+
+
+
+
+what are the components of KPI
+- Submission rate of quoatation for Works Orders
+- Contractor's proposal 
+- Knowledge sessions delivered by Framework Contractor
+- Public Satisfaction
+- Accuracy of forecasting "defined cost" in payment applications
+- retention of Key Persons
+- Adoption of advanced technologies
+
+What is the quotation evaluation method for Works Order? 
+- Forecast total of the price
+- Performance score of Wroks Orders
+- Proposed duration of works 
+- KPI score 
