@@ -10,14 +10,14 @@ Notes for my P&amp;RD Rotation
 ---
 # To-Do List:
 
-- [ ] PR/2024/10 -- Check CIPP design
-- [ ] PR/2024/13 -- Tender Assessment M6 --> Open Pricing Document --> M7 --> Tender Report --> M8 
 - [ ] Self Learning -- Make notes for PAH Ch. 5,6
 - [ ] Self Learning -- Make notes for NEC ECC flowchart (https://ssp.devbwb.ccgo.hksarg/wgi-portal/int-filemanager/wgip/common/NEC_Flow_Charts-202308/Engineering%20and%20Construction%20flowcharts.pdf)
 - [ ] Read about Financial Circular No. 3/2020 –- “Parallel Tendering for Contracts” 
 - [ ] Framework Contract -- Read about Issac's letter and learn
 - [ ] Other Quotation Contract -- Concrete & Bitumous Material Submission --> Waiting for Wilson's supporting information --> Conduct Checking --> Waiting for resubmission
 
+- [X] PR/2024/13 -- Tender Assessment M6 --> Open Pricing Document --> M7 --> Tender Report --> M8 
+- [X] PR/2024/10 -- Check CIPP design
 - [X] PR/2024/10 -- Commencement letter --> AoA remaining 
 - [X] Framework Contract -- RtoC for ITMU
 - [X] Framework - Issue Memo for Tender Photocopy Cost (relevant contract clause needed)
