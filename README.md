@@ -14,8 +14,8 @@ Notes for my P&amp;RD Rotation
 - [ ] Self Learning -- Make notes for NEC ECC flowchart (https://ssp.devbwb.ccgo.hksarg/wgi-portal/int-filemanager/wgip/common/NEC_Flow_Charts-202308/Engineering%20and%20Construction%20flowcharts.pdf)
 - [ ] Read about Financial Circular No. 3/2020 –- “Parallel Tendering for Contracts” 
 - [ ] Framework Contract -- Read about Issac's letter and learn
-- [ ] Other Quotation Contract -- Concrete & Bitumous Material Submission --> Waiting for Wilson's supporting information --> Conduct Checking --> Waiting for resubmission
 
+- [X] Other Quotation Contract -- Concrete & Bitumous Material Submission --> Waiting for Wilson's supporting information --> Conduct Checking --> Waiting for resubmission
 - [X] PR/2024/13 -- Tender Assessment M6 --> Open Pricing Document --> M7 --> Tender Report --> M8 
 - [X] PR/2024/10 -- Check CIPP design
 - [X] PR/2024/10 -- Commencement letter --> AoA remaining 
@@ -85,7 +85,7 @@ What kind of pre-tender works needs to be done prior to Tendering?
 <li> Standard Ammendment to NEC ECC - AD (DEVB 8/2010)
 <li> Approval on PS - CE (PAH Ch.5 6.1)
 <li> Professional Indemnity Insurance - CE (PAH Ch.5 5.2.3 & DEVB 9/2007)
-<li> (DSD Only) NEC Option Selection - AD (DSD Guideline on Preparation of NEC OPtion Selection Submission for Endorsement Para. 26)
+<li> (DSD Only) NEC Option Selection - AD (DSD Guideline on Preparation of NEC Option Selection Submission for Endorsement Para. 26)
 
 
 <p><p><b>Internal Approval</b>
